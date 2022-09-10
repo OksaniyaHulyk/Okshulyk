@@ -1,0 +1,93 @@
+<DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF8"
+<title> Oksaniya Hulyk CV</title>
+</head>
+<body>
+<Table>
+<tr>
+<td>
+<img src="https://scontent.flwo4-1.fna.fbcdn.net/v/t1.6435-9/119607295_116936826819796_6849168016232392220_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-KzP9Ys2V_sAX_MYHe8&_nc_ht=scontent.flwo4-1.fna&oh=00_AT8EpJ5LG5IeYtm5a62Tvij_0rE68s3_BorrgaEKkgpKow&oe=6342E092 "
+ width="200" alt="тут моє фото"/img>
+</td>
+<td>
+<h1> Oksaniya Hulyk</h1>
+</td>
+</table>
+
+</tr>
+<tr>
+<td>
+<p ><em>I am a <strong>musician</strong></p>
+</td>
+<td>
+<p> Wife and <strong>mother</strong></em></p>
+</td>
+</tr>
+</table>
+
+<hr  noshade sise="30"  color="red">
+ 
+<h2>My hobbies</h2>
+<ul> 
+<li> Ride a scooter</li>
+<li>Travel</li>
+<li>Swimming</li>
+</ul>
+<hr  noshade sise="30"  color="red">
+
+
+<h2>My social networks</h2>
+<ul>
+<li><a href="https://www.facebook.com/profile.php?id=100009282055044" target="_blank"/>facebook
+</a></li>
+ </ul>
+<hr  noshade sise="30"  color="red">
+
+
+<h2>Experience<h2/>
+<table >
+<tr>
+<th>The company</th>
+<th> Position</th>
+<th> period of work</th> 
+</tr>
+
+
+
+
+<tr>
+<td>Sim/23</td>
+<td> Manager</td>
+<td>2021-2022</td>
+</tr>
+<tr>
+
+<td>Team24/7</td>
+<td>Manager</td>
+<td>Now</td>
+</tr>
+</table>
+<hr  noshade sise="30"  color="red">
+
+<h2> Contact me<h2>
+<form>
+<label for="name"> Your name:</label>
+<input tupe="text" id="name"
+placeholder="Enter your name">
+</form>
+<form>
+<label for="email"> Your email:</label>
+<input tupe="text" id="email"
+placeholder="Enter your email">
+<br>
+<input type="submit" value="Get in touch">
+</br>
+<br>
+<tabel for="text">Your message:<label>
+<br>
+<textarea id="text"></textarea>
+</form>
+<hr  noshade sise="30"  color="red">
+
